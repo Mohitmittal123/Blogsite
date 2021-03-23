@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+    background-color:white;
+    
+
+}
+
+.headerMenu a{
+display: inline-block;
+margin: 0 10px ;
+text-decoration: none;
+color:#000080;
+font-size: 12px;
+letter-spacing: 1.2px;
+font-weight: 200;
+    
+}
+.headerMenu a:hover{
+    color: black;
+}
